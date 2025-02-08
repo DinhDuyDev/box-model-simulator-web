@@ -18,6 +18,14 @@ html, body {
     width: 100%;
     border: 2px solid red;
 }
+
+#keys {
+    margin-top: 10px;
+    width: 400px;
+    border: 2px solid blue;
+    padding: 15px;
+}
+
 #button {
     background-color: red;
     color: white;
@@ -31,3 +39,4 @@ html, body {
 #button:hover {
     background-color: green;
 }
+
